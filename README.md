@@ -1,2 +1,2 @@
 # fsharpassigment
-fsharpassigment
+fsharpassignment
